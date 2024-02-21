@@ -1,0 +1,11 @@
+codigo=10
+salario=1500
+nome='jose'
+ativo= True
+
+tipo= type(salario)
+
+print("Codigo: %d "% codigo)
+print("Nome: %s "% nome)
+print("Salario: %.2f "% salario)
+print("Ativo: %r "% ativo)
